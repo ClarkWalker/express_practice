@@ -1,0 +1,23 @@
+{
+  "name": "express_practice",
+  "version": "1.0.0",
+  "description": "Build a basic express app ``` npm init -y ``` _quicker_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkWalker/express_practice.git"
+  },
+  "keywords": [],
+  "author": "Clark Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClarkWalker/express_practice/issues"
+  },
+  "homepage": "https://github.com/ClarkWalker/express_practice#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
